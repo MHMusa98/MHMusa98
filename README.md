@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/MHMusa98](https://github.com/MHMusa98)
 
-- 💬 Ask me about **C/C++,JavaScript**
+- 💬 Ask me about **C/C++, JavaScript**
 
 - 📫 How to reach me **mhmusa98@gmail.com**
 
