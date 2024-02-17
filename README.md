@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&pause=1000&width=435&lines=MAHADI+HASAN+MUSA;Let's+do+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&pause=1000&width=435&lines=MAHADI+HASAN+MUSA;)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
