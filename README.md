@@ -15,9 +15,8 @@ Hi there 👋
 <p align="left">
 <a href="https://linkedin.com/in/mahadi-hasan-musa-6209ab17b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-nahian" height="30" width="40" /></a>
 </p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 <h2> I’m currently working on **MERN Project** </h2>
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
