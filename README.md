@@ -16,19 +16,19 @@ Hi there 👋
 <a href="https://linkedin.com/in/mahadi-hasan-musa-6209ab17b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-nahian" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **MERN Project** 
+- 🔭 I’m currently working on **Core SwE technologies** 
 
-- 🌱 I’m currently learning **React JS, Node JS**
+#- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MHMusa98](https://github.com/MHMusa98)
 
-- 💬 Ask me about **C/C++, JavaScript**
+- 💬 Ask me about **C/C++, PHP, Laravel, JavaScript, Python**
 
 - 📫 How to reach me **mhmusa98@gmail.com**
 
-- ⚡ Fun fact **Coding Jockos**
+- ⚡ Fun fact **Coding is amaizing!**
 
 ## Languages
 
