@@ -18,7 +18,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on **Core SwE technologies** 
 
-#- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Web app frameworks**
 
 - 👯 I’m looking to collaborate on **Git**
 
